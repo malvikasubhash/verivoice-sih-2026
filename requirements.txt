@@ -1,0 +1,13 @@
+
+flask
+flask-cors
+gunicorn
+numpy
+scipy
+librosa
+soundfile
+torch
+transformers
+silero-vad
+onnxruntime
+imageio-ffmpeg
