@@ -35,7 +35,7 @@ SAMPLE_RATE = 16000
 HIGH_THRESHOLD = 0.99
 SUSPICIOUS_THRESHOLD = 0.30
 
-DB_PATH = "/content/verivoice.db"
+DB_PATH = "/tmp/verivoice.db"
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
